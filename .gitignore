@@ -1,7 +1,3 @@
-# Maya Binary and Arnold tx files
-*.mb
-*.tx
-
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
